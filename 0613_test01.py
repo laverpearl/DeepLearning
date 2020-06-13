@@ -18,4 +18,4 @@ print('tail:\n', df.tail(3))
 print('Values:\n', df.values)
 print('Describe:\n', df.describe())  # 요약 통계량(최솟값, 최댓값, 중앙값, 평균 ...)
 
-print('-'*30)
+print('-'*30)v
