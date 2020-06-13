@@ -8,4 +8,4 @@ x = np.arange(-0.5, 0.5, 0.1)
 y = step_function(x)
 plt.plot(x, y)
 plt.ylim(-0.1, 1.1) #範囲
-plt.show()
+plt.show() 
