@@ -38,6 +38,7 @@ for i in range(2001):
         plt.plot(np.arange(0, 15, 0.1), np.array([sigmoid(a * x + b) for x in x_range]))
 
 
+
         #plt.show()
 
 
